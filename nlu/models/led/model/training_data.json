@@ -1,0 +1,53 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "on",
+        "text": "on"
+      },
+      {
+        "intent": "on",
+        "text": "turn on"
+      },
+      {
+        "intent": "on",
+        "text": "light up"
+      },
+      {
+        "intent": "on",
+        "text": "shine"
+      },
+      {
+        "intent": "on",
+        "text": "bright up"
+      },
+      {
+        "intent": "on",
+        "text": "switch on"
+      },
+      {
+        "intent": "off",
+        "text": "off"
+      },
+      {
+        "intent": "off",
+        "text": "turn off"
+      },
+      {
+        "intent": "off",
+        "text": "stop"
+      },
+      {
+        "intent": "off",
+        "text": "switch off"
+      },
+      {
+        "intent": "off",
+        "text": "turn down"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

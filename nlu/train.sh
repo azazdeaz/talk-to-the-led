@@ -19,4 +19,5 @@ docker run \
             -d /app/project/data/nlu.md \
             -o /app/models \
             --project led \
+            --fixed_model_name model \
             --debug
