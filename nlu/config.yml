@@ -1,2 +1,2 @@
 language: "en"
-pipeline: "pretrained_embeddings_spacy"
+pipeline: "spacy_sklearn"
